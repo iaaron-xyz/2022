@@ -7,7 +7,9 @@ This program implement a program that prompts the user for the name of a variabl
 and outputs the corresponding name in snake case. Assume that the user's input will indeed be in camel case.
 
 EXAMPLE:
-
+$ python camel.py 
+camelCase: holaPythonYHolaMundo
+snake_case: hola_python_y_hola_mundo
 """
 
 def main():
