@@ -8,12 +8,19 @@ Course site: https://cs50.harvard.edu/python/2022/
 - **Week 0**: Functions, Variables
     - Pset 0:
         - [x] einstein/einstein.py
-        - [ ] faces/faces.py
-        - [ ] indoor/indoor.py
-        - [ ] playback/playback.py
-        - [ ] tip/tip.py
+        - [x] faces/faces.py
+        - [x] indoor/indoor.py
+        - [x] playback/playback.py
+        - [x] tip/tip.py
 
 - **Week 1**: Conditional
+    - Pset 1:
+        - [x] bank/bank.py
+        - [x] deep/deep.py
+        - [x] extensions/extensions.py
+        - [x] interpreter/interpreter.py
+        - [x] meal/meal.py
+ 
 - **Week 2**: Loops
 - **Week 3**: Exceptions
 - **Week 4**: Libraries
