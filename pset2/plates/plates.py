@@ -17,7 +17,17 @@ Requirements:
 - No periods, spaces, or punctuation marks are allowed.
 
 EXAMPLE:
+$ python plates.py 
+Plate: IAARON
+Valid
 
+$ python plates.py 
+Plate: CS50
+Valid
+
+$ python plates.py 
+Plate: CS50P
+Invalid
 """
 
 def main():
