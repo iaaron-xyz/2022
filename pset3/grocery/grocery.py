@@ -11,7 +11,18 @@ prefixing each line with the number of times the user inputted that item.
 No need to pluralize the items. Treat the user's input case-insensitively.
 
 EXAMPLE:
+$ python3 grocery/grocery.py
+Item: apple
+Item: Apple
+Item: Banana
+Item: banana
+Item: peach
+Item: APPLE
+Item: <CTRL + D>
 
+3 APPLE
+2 BANANA
+1 PEACH
 
 """
 
@@ -21,7 +32,7 @@ def main():
     while True:
         # Add 1 to existent items
         try:
-            item = input("Item: ")
+            item = input("Item: ").lower()
             grocery_list[item] += 1
         # Initialize with 1 new items
         except KeyError:
