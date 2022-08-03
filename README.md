@@ -22,7 +22,20 @@ Course site: https://cs50.harvard.edu/python/2022/
         - [x] meal/meal.py
  
 - **Week 2**: Loops
+    - Pset 2:
+        - [x] camel/camel.py
+        - [x] coke/coke.py
+        - [x] plates/plates.py
+        - [x] twttr/twttr.py
+        - [x] nutrition/nutrition.py
+
 - **Week 3**: Exceptions
+    - Pset3:
+        - [x] fuel/fuel.py
+        - [x] taqueria/taqueria.py
+        - [x] grocery/grocery.py
+        - [x] outdated/outdated.py
+        
 - **Week 4**: Libraries
 - **Week 5**: Unit Tests
 - **Week 6**: Files I/O
