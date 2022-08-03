@@ -27,6 +27,7 @@ def main():
     lunch: 12 -13
     dinner: 18 - 19
     """
+    
     # input
     time = input("What time is it? ")
     # Decide if it is time for breakfast, lunch or dinner or none.
