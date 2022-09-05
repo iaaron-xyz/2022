@@ -37,6 +37,14 @@ Course site: https://cs50.harvard.edu/python/2022/
         - [x] outdated/outdated.py
         
 - **Week 4**: Libraries
+    - Pset4:
+        - [x] emojize/emojize.py
+        - [x] figlet/figlet.py
+        - [x] adieu/adieu.py
+        - [x] game/game.py
+        - [x] professor/profesor.py
+        - [x] bitcoin/bitcoin.py
+
 - **Week 5**: Unit Tests
 - **Week 6**: Files I/O
 - **Week 7**: Regular Expressions
