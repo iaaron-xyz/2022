@@ -30,14 +30,14 @@ Course site: https://cs50.harvard.edu/python/2022/
         - [x] nutrition/nutrition.py
 
 - **Week 3**: Exceptions
-    - Pset3:
+    - Pset 3:
         - [x] fuel/fuel.py
         - [x] taqueria/taqueria.py
         - [x] grocery/grocery.py
         - [x] outdated/outdated.py
         
 - **Week 4**: Libraries
-    - Pset4:
+    - Pset 4:
         - [x] emojize/emojize.py
         - [x] figlet/figlet.py
         - [x] adieu/adieu.py
@@ -46,6 +46,16 @@ Course site: https://cs50.harvard.edu/python/2022/
         - [x] bitcoin/bitcoin.py
 
 - **Week 5**: Unit Tests
+    - Pset 5:
+        - [x] test_twttr/test_twttr.py
+        - [x] test_twttr/twttr.py
+        - [x] test_bank/test_bank.py
+        - [x] test_bank/bank.py
+        - [x] test_plates/test_plates.py
+        - [x] test_plates/plates.py
+        - [x] test_fuel/test_fuel.py
+        - [x] test_fuel/fuel.py
+
 - **Week 6**: Files I/O
 - **Week 7**: Regular Expressions
 - **Week 8**: Object-Oriented Programming (OOP)
