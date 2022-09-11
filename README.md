@@ -57,6 +57,40 @@ Course site: https://cs50.harvard.edu/python/2022/
         - [x] test_fuel/fuel.py
 
 - **Week 6**: Files I/O
+    - Pset 6:
+        - [x] lines/lines.py
+        - [x] pizza/pizza.py
+        - pizza/regular.csv
+        - pizza/sicilian.csv
+        - [x] scourgify/scourgify.py
+        - scourgify/before.csv
+        - [x] shirt/shirt.py
+        - shirt/shirt.png
+        - shirt/muppets/before1.jpg
+        - shirt/muppets/before2.jpg
+        - shirt/muppets/before3.jpg
+
 - **Week 7**: Regular Expressions
+    - Pset 7:
+        - [x] numb3rs/numb3rs.py
+        - [x] numb3rs/test_numb3rs.py
+        - [x] watch/watch.py
+        - [x] watch/test_watch.py
+        - [x] working/working.py
+        - [x] working/test_working.py
+        - [x] um/um.py
+        - [x] um/test_um.py
+        - [x] response/response.py
+        - [x] response/test_response.py
+
 - **Week 8**: Object-Oriented Programming (OOP)
+    - Pset 8:
+        - [x] seasons/seasons.py
+        - [x] seasons/test_seasons.py
+        - [x] jar/jar.py
+        - [x] jar/test_jar.py
+        - [x] shirtificate/ahirtificate.py
+        - [x] shirtificate/shirtificate.png
+
 - **Week 9**: Et Cetera
+    - Final Project
